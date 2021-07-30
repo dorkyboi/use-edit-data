@@ -1,0 +1,31 @@
+{
+  "name": "use-edit-data",
+  "version": "1.0.0",
+  "description": "React hook that handles form changes and validation for you",
+  "keywords": [
+    "form",
+    "edit",
+    "data",
+    "hook",
+    "react"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dorkyboi/use-edit-data.git"
+  },
+  "homepage": "https://github.com/dorkyboi/use-edit-data#readme",
+  "author": {
+    "name": "Dmytro Kardava",
+    "email": "dima.kardava@gmail.com",
+    "url": "https://github.com/dorkyboi"
+  },
+  "license": "Apache-2.0",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/dorkyboi/use-edit-data/issues"
+  },
+  "dependencies": {
+    "react": ">=16.8.0"
+  }
+}
